@@ -1,0 +1,11 @@
+Nombre: Constanza Hidalgo Estay
+Rol:	202273617-8
+
+Instrucciones
+
+->Extraer los archivos del .tar.gz
+->Habiendo ya descargado Dr. Racket, abrir el programa y en la esquina superior izquierda, clickear File
+->Click en Open
+->Seleccionar el archivo de la pregunta a revisar (P1 siendo la pregunta 1, P2	siendo pregunta 2, etc.)
+->Una vez abierto el archivo, en la esquina superior derecha clickear RUN
+->Ingresar los casos de prueba en la consola que se encuentra abajo

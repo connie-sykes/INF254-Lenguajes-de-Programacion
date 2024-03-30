@@ -1,0 +1,12 @@
+Nombre: Constanza Hidalgo Estay
+Rol:	202273617-8
+
+Instrucciones
+
+Gracias al archivo makefile, solo es necesario abrir la terminal en esta misma carpeta y ejecutar make
+
+Esta la opcion de:
+make run, "compila" las clases y ejecuta el programa.
+make clean, elimina el archivo ejecutable en caso de necesitar volver a utilizar make o make run
+
+Dentro del mismo programa, solo basta con seguir las instrucciones dadas por el mismo.

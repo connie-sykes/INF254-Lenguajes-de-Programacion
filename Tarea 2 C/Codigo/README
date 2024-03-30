@@ -1,0 +1,13 @@
+Nombre: Constanza Hidalgo Estay
+Rol:	202273617-8
+
+Instrucciones
+
+Gracias al archivo makefile, solo es necesario abrir la terminal en esta misma carpeta y ejecutar make
+
+Esta la opcion de:
+make tesoro, que compila los archivos al igual que make
+make run, ejecuta el codigo
+make clean, elimina el archivo tesoro.o en caso de necesitar volver a utilizar make o make run
+
+Dentro del mismo programa, solo basta con seguir las instrucciones dadas por el mismo.
